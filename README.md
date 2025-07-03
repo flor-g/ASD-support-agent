@@ -6,7 +6,7 @@ I want to create a modular, privacy-conscious, and neurodivergent-aware AI assis
 
 ## 🧠 Project Purpose
 
-NeuroSupport Agent aims to reduce executive load and emotional stress for autistic students by combining:
+This Agent aims to reduce executive load and emotional stress for autistic students by combining:
 - Voice-first AI interaction
 - Academic email and coursework integration
 - Calendar and task management
@@ -67,6 +67,6 @@ We welcome collaborators, testers, and contributors—especially neurodivergent 
 
 ## 📬 Contact
 
-You can open a GitHub Issue or fork the repository to suggest improvements. UCL students or developers interested in early access or testing can also contact [your email/contact].
+You can open a GitHub Issue or fork the repository to suggest improvements. 
 
 ---
