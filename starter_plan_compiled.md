@@ -1,6 +1,6 @@
-# 🚀 Starter Plan for NeuroSupport Agent Development
+# Starter Plan for AS-Support Agent Development
 
-## ✅ Phase 0: Setup & Initialization
+## Phase 0: Setup & Initialization
 
 ### 0.1 Project Environment
 
