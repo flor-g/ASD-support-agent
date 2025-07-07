@@ -1,6 +1,6 @@
 # AS-support Agent (UCL Prototype)
 
-I want to create a modular, privacy-conscious, and neurodivergent-aware AI assistant designed to support autistic university students in managing emails, tasks, coursework, and mental wellbeing. This repository contains the initial system framework and plans for a prototype focused on the University College London (UCL) environment.
+I want to build a modular, privacy-conscious, and neurodivergent-aware AI assistant designed to support autistic university students in managing emails, tasks, coursework, and mental wellbeing. This repository contains the initial system framework and plans for a prototype focused on the University College London (UCL) environment.
 
 ---
 
