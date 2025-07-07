@@ -1,8 +1,8 @@
-# NeuroSupport Agent: Framework Document (UCL Configuration)
+# AS-Support Agent: Framework Document (UCL Configuration)
 
 ## 1. Purpose
 
-The NeuroSupport Agent is an assistive AI system designed for autistic college students to help manage academic workload, communications, and mental wellbeing. It combines natural voice interaction with email, calendar, coursework, and accommodation support, while maintaining flexibility to adapt to different universities.
+This agent is an assistive AI system designed for autistic college students to help manage academic workload, communications, and mental wellbeing. It combines natural voice interaction with email, calendar, coursework, and accommodation support, while maintaining flexibility to adapt to different universities.
 
 ---
 
