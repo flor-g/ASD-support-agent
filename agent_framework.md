@@ -22,7 +22,7 @@ This agent is an assistive AI system designed for autistic college students to h
 ### A. Voice Interaction Layer
 
 - Speech-to-Text (STT): OpenAI Whisper / local alternative
-- Intent Parser: GPT-4 function-calling or custom intent router
+- Intent Parser: Claude Sonnet function-calling or custom intent router
 - Text-to-Speech (TTS): pyttsx3 / ElevenLabs
 
 ### B. Email Assistant
