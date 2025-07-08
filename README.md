@@ -17,7 +17,7 @@ This Agent aims to reduce executive load and emotional stress for autistic stude
 
 ## 📄 Framework Overview
 
-You can find the full design specification in [framework.md](./framework.md), including:
+You can find the full design specification in [framework.md](./agent_framework.md), including:
 
 - 🧩 **System architecture and modular breakdown**
 - 🏫 **UCL-specific configuration** (Outlook, Moodle, EC process)
